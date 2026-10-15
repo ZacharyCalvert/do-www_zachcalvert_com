@@ -1,0 +1,4 @@
+baseURL = 'https://www.zachcalvert.com/'
+locale = 'en-us'
+title = 'Zach Calvert'
+theme = 'ananke'

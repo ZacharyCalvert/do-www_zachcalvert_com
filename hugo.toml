@@ -4,3 +4,19 @@ title = 'Zach Calvert'
 theme = 'ananke'
 [params]
   custom_css = ["css/custom.css"]
+
+[menus]
+[[menus.main]]
+name = 'Home'
+pageRef = '/'
+weight = 10
+
+[[menus.main]]
+name = 'Posts'
+pageRef = '/posts'
+weight = 20
+
+[[menus.main]]
+name = 'Hobbies'
+pageRef = '/hobbies'
+weight = 30

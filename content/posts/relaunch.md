@@ -1,5 +1,5 @@
 +++
-date = '2026-10-15T08:10:11-05:00'
+date = '2026-10-15T08:11:00-05:00'
 draft = false
 title = 'Relaunch'
 +++
@@ -12,6 +12,4 @@ After engaging with over 3,000 active engineers, including leading a team of ove
 
 Since resigning I have managed to improve my sleep, lose over 20 pounds (9 kg), am nearly finished writing my book _Designing, Modeling, and Securing RESTful APIs_, and tackle a mountain of home projects that I have left untouched for the last year.  
 
-After a month off, I'm back at the engineering, now focused on training up on front-end development, cloud assets, and latest DevOps efforts including AI management.
-
-
+After a month off, I'm back to the engineering work I love, now focused on training up on front-end development, cloud asset management, and latest DevOps efforts including AI management.

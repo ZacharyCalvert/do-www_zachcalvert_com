@@ -5,6 +5,6 @@ title = 'Boxing Sparring Matches'
 +++
 
 
-I managed to get a few rounds with a broken toe and a bruised rib at FXMMA on October 12th.  This sparring session also managed to put me a full 20 lbs down.  
+I managed to get a few rounds with a broken toe and a bruised rib at FXMMA on October 12th.  This sparring session also managed to put me a full 20 lbs down since announcing my resignation with McKesson in September.  It is amazing what reduced stress levels and improved sleep can do for your health. 
 
 {{< youtube id=ZMaxTb0tnwc loading=lazy >}}

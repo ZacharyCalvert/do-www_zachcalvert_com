@@ -2,6 +2,7 @@
 date = '2026-10-15T08:11:00-05:00'
 draft = false
 title = 'Relaunch'
+weight = 110
 +++
 
 ## Relaunching My Site

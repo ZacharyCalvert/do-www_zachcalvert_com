@@ -2,6 +2,7 @@
 date = '2026-05-28T18:30:00-05:00'
 draft = false
 title = 'Scotland 2026'
+weight = 20
 +++
 
 My wife and I decided to make the trek to Oban, Scotland for the scotch, the views, the people, and the cooler weather.  Texas in summertime is miserably hot.  

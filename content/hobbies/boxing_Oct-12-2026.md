@@ -2,6 +2,7 @@
 date = '2026-10-12T06:30:00-05:00'
 draft = false
 title = 'Boxing Sparring Matches'
+weight = 10
 +++
 
 

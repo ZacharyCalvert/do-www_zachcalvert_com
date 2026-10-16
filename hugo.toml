@@ -2,6 +2,22 @@ baseURL = 'https://www.zachcalvert.com/'
 locale = 'en-us'
 title = 'Zach Calvert'
 theme = 'ananke'
+
+[params.ananke.social]
+[params.ananke.social.follow]
+networks = ["github", "linkedin"]
+
+[params.ananke.social.github]
+username = "ZacharyCalvert"
+profilelink = "https://github.com/ZacharyCalvert"
+label = "GitHub"
+
+[params.ananke.social.linkedin]
+username = "zachcalvert"
+# profilelink = "https://www.linkedin.com/in/zachcalvert/"
+# label = "LinkedIn"
+
+
 [params]
   custom_css = ["css/custom.css"]
   mainSections = ["posts"]

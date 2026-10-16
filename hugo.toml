@@ -3,6 +3,11 @@ locale = 'en-us'
 title = 'Zach Calvert'
 theme = 'ananke'
 
+[params.meta]
+description = "Zach Calvert's mixed site of personal and professional updates."
+author = "Zach Calvert"
+favicon = false
+
 [params.ananke.social]
 [params.ananke.social.follow]
 networks = ["linkedin", "github", "bluesky"]
@@ -18,10 +23,9 @@ label = "GitHub"
 [params.ananke.social.bluesky]
 username = "zachdoesdevops.bsky.social"
 
-
 [params]
-  custom_css = ["css/custom.css"]
-  mainSections = ["posts"]
+custom_css = ["css/custom.css"]
+mainSections = ["posts"]
 
 [menus]
 [[menus.main]]

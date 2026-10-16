@@ -11,7 +11,7 @@ I resigned from McKesson in August 2026 with my last day being September 15th, 2
 
 After engaging with 3,000+ active engineers, including leading a team of over 400 contractors spanning 3 continents managing IT assets for a $90B/year pharmaceutical distribution revenue stream, I needed to take a step back and catch my breath.
 
-Since resigning I have managed to improve my sleep, lose over 20 pounds (9 kg), am nearly finished writing my book _Designing, Modeling, and Securing RESTful APIs_, and have tackled a mountain of home projects that I have left untouched for the last year.  
+Since resigning I have managed to improve my sleep, lose over 20 pounds (9 kg), am nearly finished writing my book [Designing, Modeling, and Securing RESTful APIs](/DMSR_preview.epub), and have tackled a mountain of home projects that I have left untouched for the last year.  
 
 After a month off, I'm back to the engineering work I love, now focused on training up on front-end development, cloud asset management, and latest DevOps efforts including AI management.
 

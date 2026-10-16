@@ -1,0 +1,15 @@
+<footer class="{{ .Site.Params.background_color_class | compare.Default "bg-black" }} bottom-0 w-100 pa3" role="contentinfo">
+<div class="flex justify-between">
+
+<div>
+<a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
+    &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
+</a>
+<a class="fw4 hover-white white-70 no-underline" href="https://github.com/ZacharyCalvert/do-www_zachcalvert_com" target="_blank">Code</a> | 
+<a class="fw4 hover-white white-70 no-underline" href="/ZachCalvert.pdf" target="_blank">Resume</a>
+</div>
+
+    <div>{{ partials.IncludeCached "social/follow.html" . }}</div>
+</div>
+</footer>
+  

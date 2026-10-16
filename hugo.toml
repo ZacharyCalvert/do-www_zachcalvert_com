@@ -4,6 +4,7 @@ title = 'Zach Calvert'
 theme = 'ananke'
 [params]
   custom_css = ["css/custom.css"]
+  mainSections = ["posts"]
 
 [menus]
 [[menus.main]]

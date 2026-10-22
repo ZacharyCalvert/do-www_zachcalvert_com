@@ -10,10 +10,13 @@ favicon = false
 
 [params.ananke.social]
 [params.ananke.social.follow]
-networks = ["linkedin", "github", "bluesky"]
+networks = ["linkedin", "github", "medium", "bluesky"]
 
 [params.ananke.social.linkedin]
 username = "zachcalvert"
+
+[params.ananke.social.medium]
+username = "zachdoesdevops"
 
 [params.ananke.social.github]
 username = "ZacharyCalvert"

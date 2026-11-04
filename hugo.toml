@@ -57,5 +57,19 @@ weight = 10
 parent = "resumes"
 identifier = "cybersecurity"
 name = 'Cybersecurity'
-url = '/ZachCalvert_CS.pdf'
+url = '/zachcalvert_cs.pdf'
+weight = 1
+
+[[menus.footer]]
+parent = "resumes"
+identifier = "ai"
+name = 'AI Strategist'
+url = '/zachcalvert_ai.pdf'
+weight = 1
+
+[[menus.footer]]
+parent = "resumes"
+identifier = "dso"
+name = 'DevSecOps'
+url = '/zachcalvert_dso.pdf'
 weight = 1

@@ -5,9 +5,27 @@
 <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
     &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
 </a>
-<a class="fw4 hover-white white-70 no-underline" href="https://github.com/ZacharyCalvert/do-www_zachcalvert_com" target="_blank">Code</a> | 
-<a class="fw4 hover-white white-70 no-underline" href="/ZachCalvert.pdf" target="_blank">Resume</a> | 
+<a class="fw4 hover-white white-70 no-underline" href="https://github.com/ZacharyCalvert/do-www_zachcalvert_com" target="_blank">Site Code</a> | 
 <a class="fw4 hover-white white-70 no-underline" href="https://a.co/d/0ihitHBG" target="_blank">My Book</a>
+
+      {{ range .Site.Menus.footer }}
+        {{ if .HasChildren }}
+        <div class="dropup">
+          | <button class="dropup-btn">
+            {{ .Name }}
+          </button>
+            <div class="dropup-content">
+                {{ range .Children }}
+                    <a href="{{ .URL }}">{{ .Name }}</a>
+                {{ end }}
+            </div>
+        </div>
+        {{ else }}
+          | <a class="fw4 hover-white white-70 no-underline" href="{{ .URL }}">
+            {{ .Name }}
+          </a>
+        {{ end }}
+      {{ end }}
 </div>
 
     <div>{{ partials.IncludeCached "social/follow.html" . }}</div>

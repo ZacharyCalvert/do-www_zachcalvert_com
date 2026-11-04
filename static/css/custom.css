@@ -1,24 +1,49 @@
-.footer-menu {
-  list-style: none;
-  display: flex;
-  gap: 2rem;
-}
-
-.footer-item-dropdown {
+/* Footer dropup menus */
+.dropup {
   position: relative;
+  display: inline-block;
 }
 
-.footer-submenu {
-  list-style: none;
-  display: none; /* Toggle to block on hover or via JS */
+.dropup-btn {
+  background-color: transparent;
+  color: rgba(255, 255, 255, .7);
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.dropup-btn:hover {
+  color: rgba(255, 255, 255, 1);
+}
+
+.dropup-content {
+  display: none;
   position: absolute;
-  bottom: 100%; /* Opens upward for footer dropdowns */
   left: 0;
-  background: #fff;
-  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  padding: 0.5rem 1rem;
+
+  bottom: calc(100% + 3px); 
+  background-color: rgba(255, 255, 255, 1);
+  min-width: 160px;
+  box-shadow: 0px -8px 16px 0px rgba(0,0,0,0.2); /* Shadow goes up */
+  z-index: 1;
 }
 
-.footer-item-dropdown:hover .footer-submenu {
+/* Style the links inside the menu */
+.dropup-content a {
+  color: black;
+  padding: 12px 16px;
+  /* text-decoration: none; */
+  display: flex;
+  justify-content: center; /* Horizontally centers */
+  align-items: center;     /* Vertically centers */
+}
+
+/* Change color of links on hover */
+.dropup-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the menu when hovering over the container */
+.dropup:hover .dropup-content {
   display: block;
 }

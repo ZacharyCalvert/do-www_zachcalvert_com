@@ -1,0 +1,24 @@
+.footer-menu {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.footer-item-dropdown {
+  position: relative;
+}
+
+.footer-submenu {
+  list-style: none;
+  display: none; /* Toggle to block on hover or via JS */
+  position: absolute;
+  bottom: 100%; /* Opens upward for footer dropdowns */
+  left: 0;
+  background: #fff;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  padding: 0.5rem 1rem;
+}
+
+.footer-item-dropdown:hover .footer-submenu {
+  display: block;
+}

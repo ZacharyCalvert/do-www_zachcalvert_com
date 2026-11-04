@@ -27,8 +27,10 @@ label = "GitHub"
 username = "zachdoesdevops.bsky.social"
 
 [params]
-custom_css = ["css/custom.css"]
 mainSections = ["posts"]
+
+[params.ananke]
+custom_css = ["css/custom.css"]
 
 [menus]
 [[menus.main]]
@@ -45,3 +47,15 @@ weight = 20
 name = 'Hobbies'
 pageRef = '/hobbies'
 weight = 30
+
+[[menus.footer]]
+identifier = "resumes"
+name = 'Resumes'
+weight = 10
+
+[[menus.footer]]
+parent = "resumes"
+identifier = "cybersecurity"
+name = 'Cybersecurity'
+url = '/ZachCalvert_CS.pdf'
+weight = 1

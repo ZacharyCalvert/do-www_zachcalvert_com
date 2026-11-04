@@ -22,4 +22,4 @@ With [Gemini](https://gemini.google.com/), I reduced my resume from 8 pages to 4
 
 I was not very familiar with ATS as the last time I was in the job market, my skills were both in high demand and ATS hits were primarily focused on keywords.  Now with AI, ATS are looking for contextual clues, not just keywords.  After reading through several articles and guides on ATS passing, including articles from [Indeed](https://www.indeed.com/career-advice/resumes-cover-letters/how-to-beat-applicant-tracking-system), [CIO](https://www.cio.com/article/284414/applicant-tracking-system.html), and [LinkedIn](https://www.linkedin.com/news/story/resume-tips-to-beat-the-bots-6668940/), it looks like Gemini's feedback was on point.  
 
-I plan to have 3 versions of my Resume, with the first one being taken for a spin as my [Principal Security Analyst resume](/zachcalvert_cs.pdf).
+I plan to have multiple versions of my Resume, with the first one being taken for a spin as my [Principal Security Analyst resume](/zachcalvert_cs.pdf).

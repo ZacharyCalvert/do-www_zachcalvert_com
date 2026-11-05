@@ -6,7 +6,7 @@ tags = ["architecture", "engineering", "DevSecOps", "github"]
 weight = 180
 +++
 
-## Impact at McKesson
+## McKesson Role History
 
 I recently had an interview where we went very deep into my work history at McKesson.  I was happy to see that my interviewer was making a serious effort to understand both my impact at McKesson as well as some discrepancies regarding my titles.  I had three distinct job titles at McKesson:
 

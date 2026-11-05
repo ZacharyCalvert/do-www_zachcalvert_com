@@ -37,7 +37,7 @@ Contributions:
 - [2025](https://github.com/zcalvertdevsecops?tab=overview&from=2025-12-01&to=2025-12-31): 2416
 - [2026](https://github.com/zcalvertdevsecops?tab=overview&from=2026-11-01&to=2026-11-05): 1413
 
-For a total of 8,612 contributions over the 4 years I worked McKesson.  I was very, very hands-on.
+For a total of 8,612 contributions over the 4 years I worked at McKesson.  I was very, very hands-on.
 
 ![2026](/images/2026.png)
 ![2025](/images/2025.png)

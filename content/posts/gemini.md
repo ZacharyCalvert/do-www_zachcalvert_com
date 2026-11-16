@@ -42,7 +42,7 @@ For a bit of a taste as to what I've observed with Gemini, I was able to draft t
 > I need:
 > - Terraform configuring the Azure Front Door, Azure Key Vault, Azure Container Apps
 > - Instructions for wiring up my registrar DNS to Azure for the hosting, including TLS configuration.  I will need to wire up configuration for www.plannedwallet.com (production) as well as stage.plannedwallet.com (pre-production testing).  Place DNS instructions in DNS_CONFIG.md
-> - Terraform definition of networking from Azure Front Door to the container hosting service.  Kubernetes is too expensive, so I want to use Azure Container Apps (ACS)
+> - Terraform definition of networking from Azure Front Door to the container hosting service.  Kubernetes is too expensive, so I want to use Azure Container Apps (ACA)
 > - Terraform for the managed postgres instance, and configure ACA for launching my container with access to postgres
 > - A GitHub Action workflow defined to support terraform plan and terraform apply jobs, manually executed with workflow dispatch.  State should go to the same blob storage, but 2 different state file definitions in the blog storage, 1 for prod, 1 for stage.
 > - All configuration details required, including secrets / app registration for running this job need to go to GITHUB_CONF.md

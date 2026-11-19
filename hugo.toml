@@ -43,11 +43,6 @@ name = 'Posts'
 pageRef = '/posts'
 weight = 20
 
-[[menus.main]]
-name = 'Hobbies'
-pageRef = '/hobbies'
-weight = 30
-
 [[menus.footer]]
 identifier = "resumes"
 name = 'Resumes'

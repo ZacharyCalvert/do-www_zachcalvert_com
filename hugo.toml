@@ -50,21 +50,42 @@ weight = 10
 
 [[menus.footer]]
 parent = "resumes"
-identifier = "cybersecurity"
-name = 'Cybersecurity'
-url = '/zachcalvert_cs.pdf'
-weight = 1
-
-[[menus.footer]]
-parent = "resumes"
-identifier = "ai"
+identifier = "ai_strategist"
 name = 'AI Strategist'
-url = '/zachcalvert_ai.pdf'
-weight = 1
+url = '/zach_calvert_ai_strategist.pdf'
+weight = 10
 
 [[menus.footer]]
 parent = "resumes"
-identifier = "dso"
+identifier = "cloud_architect"
+name = 'Cloud Architect'
+url = '/zach_calvert_cloud_architect.pdf'
+weight = 20
+
+[[menus.footer]]
+parent = "resumes"
+identifier = "devsecops"
 name = 'DevSecOps'
-url = '/zachcalvert_dso.pdf'
-weight = 1
+url = '/zach_calvert_devsecops.pdf'
+weight = 30
+
+[[menus.footer]]
+parent = "resumes"
+identifier = "security_analyst"
+name = 'Security Analyst'
+url = '/zach_calvert_security_analyst.pdf'
+weight = 40
+
+[[menus.footer]]
+parent = "resumes"
+identifier = "solutions_architect"
+name = 'Solutions Architect'
+url = '/zach_calvert_solutions_architect.pdf'
+weight = 50
+
+[[menus.footer]]
+parent = "resumes"
+identifier = "staff_engineer"
+name = 'Staff Engineer'
+url = '/zach_calvert_staff_engineer.pdf'
+weight = 60

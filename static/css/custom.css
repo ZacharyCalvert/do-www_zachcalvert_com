@@ -23,7 +23,8 @@
 
   bottom: 100%; 
   background-color: rgba(255, 255, 255, 1);
-  min-width: 160px;
+  min-width: 175px;
+  width: max-content;
   box-shadow: 0px -8px 16px 0px rgba(0,0,0,0.2); /* Shadow goes up */
   border-radius: 12px; 
   z-index: 1;
@@ -37,6 +38,8 @@
   display: flex;
   justify-content: center; /* Horizontally centers */
   align-items: center;     /* Vertically centers */
+  text-align: center;
+  white-space: nowrap;
 }
 
 /* Change color of links on hover */

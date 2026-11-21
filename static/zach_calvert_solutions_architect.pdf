@@ -16,20 +16,18 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 64580 >>
+<< /Length 64254 >>
 stream
 0.973 0.980 0.988 rg
 35.00 706.00 542.00 58.00 re f
 1.50 w 0.059 0.298 0.506 RG 35.00 706.00 m 577.00 706.00 l S
 BT /F2 20.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 43.00 744.00 Tm (Zach Calvert) Tj ET
 BT /F2 11.50 Tf 0.118 0.161 0.231 rg 1 0 0 1 43.00 728.00 Tm (Principal Solutions Architect | Enterprise Cloud & Distributed Systems) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 43.00 714.00 Tm (8629 Tamar Trail, Fort Worth, TX 76118) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 203.06 714.00 Tm (  |  ) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 215.40 714.00 Tm (817-614-8938) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 271.44 714.00 Tm (  |  ) Tj ET
-BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 283.79 714.00 Tm (ZachCalvert@gmail.com) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 382.44 714.00 Tm (  |  ) Tj ET
-BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 394.78 714.00 Tm (https://www.linkedin.com/in/zachcalvert) Tj ET
+BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 43.00 714.00 Tm (Fort Worth, TX) Tj ET
+BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 102.01 714.00 Tm (  |  ) Tj ET
+BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 114.36 714.00 Tm (ZachCalvert@gmail.com) Tj ET
+BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 213.01 714.00 Tm (  |  ) Tj ET
+BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 225.36 714.00 Tm (https://www.linkedin.com/in/zachcalvert) Tj ET
 0.945 0.961 0.976 rg
 39.00 682.00 534.00 18.00 re f
 0.85 w 0.059 0.298 0.506 RG 39.00 682.00 m 573.00 682.00 l S
@@ -662,28 +660,26 @@ BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 271.47 247.50 Tm (PostgreSQL,) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 325.85 247.50 Tm ( ) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 328.50 247.50 Tm (KMS,) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 351.72 247.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 354.36 247.50 Tm (SSM,) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 377.59 247.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 380.23 247.50 Tm (ephemeral) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 425.11 247.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 427.75 247.50 Tm (ECS) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 447.28 247.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 449.92 247.50 Tm (Fargate) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 482.66 247.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 485.30 247.50 Tm (migrations,) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 531.76 247.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 534.40 247.50 Tm (and) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 55.00 234.50 Tm (blocking) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 89.85 234.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 92.49 234.50 Tm (Checkov) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 129.44 234.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 132.08 234.50 Tm (SAST) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 156.90 234.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 159.54 234.50 Tm (via) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 171.68 234.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 174.32 234.50 Tm (GitHub) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 203.88 234.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 206.52 234.50 Tm (OIDC\).) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 354.36 247.50 Tm (ephemeral) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 399.24 247.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 401.88 247.50 Tm (ECS) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 421.42 247.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 424.06 247.50 Tm (Fargate) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 456.79 247.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 459.43 247.50 Tm (migrations,) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 505.89 247.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 508.53 247.50 Tm (and) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 524.38 247.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 527.02 247.50 Tm (blocking) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 55.00 234.50 Tm (Checkov) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 91.95 234.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 94.60 234.50 Tm (SAST) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 119.41 234.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 122.05 234.50 Tm (via) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 134.19 234.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 136.83 234.50 Tm (GitHub) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 166.40 234.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 169.04 234.50 Tm (OIDC\).) Tj ET
 BT /F2 10.00 Tf 0.118 0.161 0.231 rg 1 0 0 1 43.00 212.00 Tm (McKesson | Principal Solutions Architect) Tj ET
 BT /F3 9.50 Tf 0.278 0.333 0.412 rg 1 0 0 1 428.17 212.00 Tm (Irving, TX | Oct 2022 – Sept 2026) Tj ET
 BT /F2 9.50 Tf 0.059 0.298 0.506 rg 1 0 0 1 46.00 198.00 Tm (•) Tj ET
@@ -897,10 +893,10 @@ BT /F1 8.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 471.76 22.00 Tm (Zach Calvert  |  Pa
 endstream
 endobj
 7 0 obj
-<< /Type /Annot /Subtype /Link /Rect [283.79 712.00 382.44 723.00] /Border [0 0 0] /A << /S /URI /URI (mailto:ZachCalvert@gmail.com) >> >>
+<< /Type /Annot /Subtype /Link /Rect [114.36 712.00 213.01 723.00] /Border [0 0 0] /A << /S /URI /URI (mailto:ZachCalvert@gmail.com) >> >>
 endobj
 8 0 obj
-<< /Type /Annot /Subtype /Link /Rect [394.78 712.00 551.33 723.00] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/zachcalvert) >> >>
+<< /Type /Annot /Subtype /Link /Rect [225.36 712.00 381.90 723.00] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/zachcalvert) >> >>
 endobj
 9 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612.00 792.00] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R] >>
@@ -1700,13 +1696,13 @@ xref
 0000000225 00000 n 
 0000000327 00000 n 
 0000000432 00000 n 
-0000065065 00000 n 
-0000065219 00000 n 
-0000065384 00000 n 
-0000065558 00000 n 
-0000123410 00000 n 
+0000064739 00000 n 
+0000064893 00000 n 
+0000065058 00000 n 
+0000065232 00000 n 
+0000123084 00000 n 
 trailer
 << /Size 12 /Root 1 0 R >>
 startxref
-123564
+123238
 %%EOF

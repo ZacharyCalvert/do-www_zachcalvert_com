@@ -16,20 +16,18 @@ endobj
 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Oblique /Encoding /WinAnsiEncoding >>
 endobj
 6 0 obj
-<< /Length 71119 >>
+<< /Length 70793 >>
 stream
 0.973 0.980 0.988 rg
 35.00 706.00 542.00 58.00 re f
 1.50 w 0.059 0.298 0.506 RG 35.00 706.00 m 577.00 706.00 l S
 BT /F2 20.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 43.00 744.00 Tm (Zach Calvert) Tj ET
 BT /F2 11.50 Tf 0.118 0.161 0.231 rg 1 0 0 1 43.00 728.00 Tm (Staff Software Engineer | Golang, Java, Python & Cloud-Native Systems) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 43.00 714.00 Tm (8629 Tamar Trail, Fort Worth, TX 76118) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 203.06 714.00 Tm (  |  ) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 215.40 714.00 Tm (817-614-8938) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 271.44 714.00 Tm (  |  ) Tj ET
-BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 283.79 714.00 Tm (ZachCalvert@gmail.com) Tj ET
-BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 382.44 714.00 Tm (  |  ) Tj ET
-BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 394.78 714.00 Tm (https://www.linkedin.com/in/zachcalvert) Tj ET
+BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 43.00 714.00 Tm (Fort Worth, TX) Tj ET
+BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 102.01 714.00 Tm (  |  ) Tj ET
+BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 114.36 714.00 Tm (ZachCalvert@gmail.com) Tj ET
+BT /F1 9.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 213.01 714.00 Tm (  |  ) Tj ET
+BT /F1 9.00 Tf 0.059 0.298 0.506 rg 1 0 0 1 225.36 714.00 Tm (https://www.linkedin.com/in/zachcalvert) Tj ET
 0.945 0.961 0.976 rg
 39.00 682.00 534.00 18.00 re f
 0.85 w 0.059 0.298 0.506 RG 39.00 682.00 m 573.00 682.00 l S
@@ -630,25 +628,23 @@ BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 169.04 299.50 Tm (PostgreSQL,) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 223.43 299.50 Tm ( ) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 226.07 299.50 Tm (KMS,) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 249.29 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 251.93 299.50 Tm (SSM,) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 275.16 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 277.80 299.50 Tm (ephemeral) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 322.68 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 325.32 299.50 Tm (ECS) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 344.85 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 347.50 299.50 Tm (Fargate) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 380.23 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 382.87 299.50 Tm (migrations,) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 429.33 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 431.97 299.50 Tm (and) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 447.82 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 450.46 299.50 Tm (blocking) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 485.30 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 487.94 299.50 Tm (Checkov) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 524.90 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 527.54 299.50 Tm (SAST) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 552.35 299.50 Tm ( ) Tj ET
-BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 554.99 299.50 Tm (via) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 251.93 299.50 Tm (ephemeral) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 296.81 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 299.45 299.50 Tm (ECS) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 318.99 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 321.63 299.50 Tm (Fargate) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 354.36 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 357.00 299.50 Tm (migrations,) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 403.46 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 406.10 299.50 Tm (and) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 421.95 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 424.59 299.50 Tm (blocking) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 459.43 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 462.08 299.50 Tm (Checkov) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 499.03 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 501.67 299.50 Tm (SAST) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 526.49 299.50 Tm ( ) Tj ET
+BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 529.13 299.50 Tm (via) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 55.00 286.50 Tm (GitHub) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 84.56 286.50 Tm ( ) Tj ET
 BT /F1 9.50 Tf 0.122 0.161 0.216 rg 1 0 0 1 87.20 286.50 Tm (OIDC\).) Tj ET
@@ -988,10 +984,10 @@ BT /F1 8.00 Tf 0.278 0.333 0.412 rg 1 0 0 1 471.76 22.00 Tm (Zach Calvert  |  Pa
 endstream
 endobj
 7 0 obj
-<< /Type /Annot /Subtype /Link /Rect [283.79 712.00 382.44 723.00] /Border [0 0 0] /A << /S /URI /URI (mailto:ZachCalvert@gmail.com) >> >>
+<< /Type /Annot /Subtype /Link /Rect [114.36 712.00 213.01 723.00] /Border [0 0 0] /A << /S /URI /URI (mailto:ZachCalvert@gmail.com) >> >>
 endobj
 8 0 obj
-<< /Type /Annot /Subtype /Link /Rect [394.78 712.00 551.33 723.00] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/zachcalvert) >> >>
+<< /Type /Annot /Subtype /Link /Rect [225.36 712.00 381.90 723.00] /Border [0 0 0] /A << /S /URI /URI (https://www.linkedin.com/in/zachcalvert) >> >>
 endobj
 9 0 obj
 << /Type /Page /Parent 2 0 R /MediaBox [0 0 612.00 792.00] /Resources << /Font << /F1 3 0 R /F2 4 0 R /F3 5 0 R >> >> /Contents 6 0 R /Annots [7 0 R 8 0 R] >>
@@ -1626,13 +1622,13 @@ xref
 0000000225 00000 n 
 0000000327 00000 n 
 0000000432 00000 n 
-0000071604 00000 n 
-0000071758 00000 n 
-0000071923 00000 n 
-0000072097 00000 n 
-0000117813 00000 n 
+0000071278 00000 n 
+0000071432 00000 n 
+0000071597 00000 n 
+0000071771 00000 n 
+0000117487 00000 n 
 trailer
 << /Size 12 /Root 1 0 R >>
 startxref
-117967
+117641
 %%EOF
